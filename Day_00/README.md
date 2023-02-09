@@ -7,10 +7,10 @@
 * Pandas basics
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- difference between GPU and CPU
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- Learning how to use numpy and pandas on the data
 
 ## Additional resources used 
-<To be filled>
+I used datacamp resources, stackoverflow and geeksforgeeks
