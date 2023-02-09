@@ -7,10 +7,13 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Tensorflow module and how to use it
+- Building deep neural network
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- Building ANN and tracking both loss and accuracy 
+- Adding layer to ANN with different numbers of units to reach best accuracy
 
 ## Additional resources used 
-<To be filled>
+- stackoverflow
+- geeksforgeeks
