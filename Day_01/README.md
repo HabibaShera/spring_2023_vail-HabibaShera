@@ -9,10 +9,12 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- learning new topics about decision tree and random forest algorithms and visualizing them
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- Visualizing random forest is the most exciting thing 
+- trying another algorithms from scikit-learn website
 
 ## Additional resources used 
-<To be filled>
+- stackoverflow
+- medium
