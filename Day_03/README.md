@@ -8,10 +8,13 @@
 * Computing accuracy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Activation functions and difference between sigmoid and softmax
+- Learn about gradient descent
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+build neural network from scratch
 
 ## Additional resources used 
-<To be filled>
+- medium
+- stackoverflow
+- towards data science
