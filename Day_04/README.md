@@ -9,10 +9,13 @@
 * Batch norm
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Learning about dropout layers
+- visualizing features map in specific layer
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+How to train a model on images data by building CNN architecture
 
 ## Additional resources used 
-<To be filled>
+- stackoverflow
+- medium
+- machinelearningmastary
