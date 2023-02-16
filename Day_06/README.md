@@ -7,10 +7,11 @@
 * Sparse Categorical Cross-Entropy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- relation between categroical cross entropy and binary cross entropy
+- difference between categorical and sparse categorical cross entropy
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+implement categorical cross entropy function
 
 ## Additional resources used 
-<To be filled>
+stackoverflow, medium
