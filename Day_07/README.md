@@ -6,10 +6,11 @@
 * Optimizers(SGD, ADAM, etc.)
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Different types of gradient descent like mini-batch, stochastic and batch gradient descent
+- How to use them in keras
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Relation between optimizers and loss functions
 
 ## Additional resources used 
-<To be filled>
+medium, stackoverflow, geeksforgeeks
