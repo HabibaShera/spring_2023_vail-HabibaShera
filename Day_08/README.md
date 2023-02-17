@@ -8,10 +8,10 @@
 * Advanced activation functions: Swish, GeLU, SeLU
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Implementation of the activation functions 
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- How to visualize what CNN model see the characterisic of the images
 
 ## Additional resources used 
-<To be filled>
+- stackoverflow, medium, towardsdatascience
