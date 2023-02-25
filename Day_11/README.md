@@ -6,10 +6,12 @@
 * Bias
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Ethics of data
+- Different types of biased data and models
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- Game of filtering CVs by machine learning model
+- Critical questions about chatGPT and baised models
 
 ## Additional resources used 
-<To be filled>
+No
