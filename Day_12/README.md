@@ -7,10 +7,10 @@
 * Decoders
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+How to bulid encoder and decoder and training them
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Using encoder as a classifier and decoder as a generator
 
 ## Additional resources used 
-<To be filled>
+medium, geeksforgeeks
