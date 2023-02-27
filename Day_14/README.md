@@ -8,10 +8,10 @@
 * Style Transfer
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+How to apply specific style on an image and create new one which contains image content with new style
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Applying these concepts by coding them. It's a good reference.
 
 ## Additional resources used 
-<To be filled>
+medium, geeksforgeeks
