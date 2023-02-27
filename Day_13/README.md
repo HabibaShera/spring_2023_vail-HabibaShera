@@ -6,10 +6,11 @@
 * Discriminator
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- what is generator and discriminator
+- how to build them
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Similarity between GANs and Autoencoders
 
 ## Additional resources used 
-<To be filled>
+medium, towardsdatascience
